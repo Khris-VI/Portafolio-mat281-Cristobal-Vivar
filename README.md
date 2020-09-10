@@ -11,7 +11,9 @@
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
 ## Portafolio Personal
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/{GITHUB_USER}/mat281_portfolio_template/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Khris-VI/mat281_portfolio_template/master?urlpath=lab)
+
+*__Cristóbal Vivar__
 
 ### Setup
 
