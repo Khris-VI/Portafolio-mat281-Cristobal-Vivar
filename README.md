@@ -13,7 +13,7 @@
 ## Portafolio Personal
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Khris-VI/Portafolio-mat281-Cristobal-Vivar/master?urlpath=labs)
 
-###__Cristóbal Vivar__
+### Cristóbal Vivar
 
 ### Setup
 
